@@ -1,0 +1,7 @@
+{
+  "name": "bpkg-poc",
+  "version": "0.0.1",
+  "description": "Bpkg POC",
+  "scripts": [ "index.sh" ]
+}
+
